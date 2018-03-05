@@ -1,0 +1,308 @@
+C:\Users\velisj\Git\NMC\CIT218\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\roslyn\csc.exe
+C:\Users\velisj\Git\NMC\CIT218\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\velisj\Git\NMC\CIT218\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\velisj\Git\NMC\CIT218\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\velisj\Git\NMC\CIT218\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\velisj\Git\NMC\CIT218\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\velisj\Git\NMC\CIT218\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\velisj\Git\NMC\CIT218\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\velisj\Git\NMC\CIT218\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\velisj\Git\NMC\CIT218\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\roslyn\vbc.exe
+C:\Users\velisj\Git\NMC\CIT218\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\roslyn\VBCSCompiler.exe
+C:\Users\velisj\Git\NMC\CIT218\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\velisj\Git\NMC\CIT218\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\roslyn\desktop.ini
+C:\Users\velisj\Git\NMC\CIT218\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\Demo_Nmm_Xml.dll.config
+C:\Users\velisj\Git\NMC\CIT218\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\Demo_Nmm_Xml.dll
+C:\Users\velisj\Git\NMC\CIT218\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\Demo_Nmm_Xml.pdb
+C:\Users\velisj\Git\NMC\CIT218\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\Antlr3.Runtime.dll
+C:\Users\velisj\Git\NMC\CIT218\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\velisj\Git\NMC\CIT218\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\velisj\Git\NMC\CIT218\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\Newtonsoft.Json.dll
+C:\Users\velisj\Git\NMC\CIT218\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\System.Web.Helpers.dll
+C:\Users\velisj\Git\NMC\CIT218\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\System.Web.Mvc.dll
+C:\Users\velisj\Git\NMC\CIT218\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\System.Web.Optimization.dll
+C:\Users\velisj\Git\NMC\CIT218\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\System.Web.Razor.dll
+C:\Users\velisj\Git\NMC\CIT218\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\System.Web.WebPages.Deployment.dll
+C:\Users\velisj\Git\NMC\CIT218\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\System.Web.WebPages.dll
+C:\Users\velisj\Git\NMC\CIT218\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\System.Web.WebPages.Razor.dll
+C:\Users\velisj\Git\NMC\CIT218\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\WebGrease.dll
+C:\Users\velisj\Git\NMC\CIT218\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\velisj\Git\NMC\CIT218\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\System.Web.Helpers.xml
+C:\Users\velisj\Git\NMC\CIT218\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\System.Web.Mvc.xml
+C:\Users\velisj\Git\NMC\CIT218\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\System.Web.Optimization.xml
+C:\Users\velisj\Git\NMC\CIT218\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\System.Web.Razor.xml
+C:\Users\velisj\Git\NMC\CIT218\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\System.Web.WebPages.xml
+C:\Users\velisj\Git\NMC\CIT218\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\System.Web.WebPages.Deployment.xml
+C:\Users\velisj\Git\NMC\CIT218\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\System.Web.WebPages.Razor.xml
+C:\Users\velisj\Git\NMC\CIT218\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\Antlr3.Runtime.pdb
+C:\Users\velisj\Git\NMC\CIT218\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\Newtonsoft.Json.xml
+C:\Users\velisj\Git\NMC\CIT218\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\obj\Debug\Demo_Nmm_Xml.Percistence.csprojResolveAssemblyReference.cache
+C:\Users\velisj\Git\NMC\CIT218\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\obj\Debug\Demo_Nmm_Xml.Percistence.csproj.CoreCompileInputs.cache
+C:\Users\velisj\Git\NMC\CIT218\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\obj\Debug\Demo_Nmm_Xml.dll
+C:\Users\velisj\Git\NMC\CIT218\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\obj\Debug\Demo_Nmm_Xml.pdb
+C:\Users\velisj\Git\NMC\CIT218\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\ApplicationInsights.config
+C:\Users\velisj\Google Drive\NMC\Courses\CIT218\CIT218 - Demonstrations\Demo - NMM with XML\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\roslyn\desktop.ini
+C:\Users\velisj\Google Drive\NMC\Courses\CIT218\CIT218 - Demonstrations\Demo - NMM with XML\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\ApplicationInsights.config
+C:\Users\velisj\Google Drive\NMC\Courses\CIT218\CIT218 - Demonstrations\Demo - NMM with XML\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\roslyn\csc.exe
+C:\Users\velisj\Google Drive\NMC\Courses\CIT218\CIT218 - Demonstrations\Demo - NMM with XML\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\velisj\Google Drive\NMC\Courses\CIT218\CIT218 - Demonstrations\Demo - NMM with XML\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\velisj\Google Drive\NMC\Courses\CIT218\CIT218 - Demonstrations\Demo - NMM with XML\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\velisj\Google Drive\NMC\Courses\CIT218\CIT218 - Demonstrations\Demo - NMM with XML\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\velisj\Google Drive\NMC\Courses\CIT218\CIT218 - Demonstrations\Demo - NMM with XML\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\velisj\Google Drive\NMC\Courses\CIT218\CIT218 - Demonstrations\Demo - NMM with XML\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\velisj\Google Drive\NMC\Courses\CIT218\CIT218 - Demonstrations\Demo - NMM with XML\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\velisj\Google Drive\NMC\Courses\CIT218\CIT218 - Demonstrations\Demo - NMM with XML\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\velisj\Google Drive\NMC\Courses\CIT218\CIT218 - Demonstrations\Demo - NMM with XML\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\roslyn\vbc.exe
+C:\Users\velisj\Google Drive\NMC\Courses\CIT218\CIT218 - Demonstrations\Demo - NMM with XML\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\roslyn\VBCSCompiler.exe
+C:\Users\velisj\Google Drive\NMC\Courses\CIT218\CIT218 - Demonstrations\Demo - NMM with XML\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\velisj\Google Drive\NMC\Courses\CIT218\CIT218 - Demonstrations\Demo - NMM with XML\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\Demo_Nmm_Xml.dll.config
+C:\Users\velisj\Google Drive\NMC\Courses\CIT218\CIT218 - Demonstrations\Demo - NMM with XML\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\Demo_Nmm_Xml.dll
+C:\Users\velisj\Google Drive\NMC\Courses\CIT218\CIT218 - Demonstrations\Demo - NMM with XML\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\Demo_Nmm_Xml.pdb
+C:\Users\velisj\Google Drive\NMC\Courses\CIT218\CIT218 - Demonstrations\Demo - NMM with XML\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\Antlr3.Runtime.dll
+C:\Users\velisj\Google Drive\NMC\Courses\CIT218\CIT218 - Demonstrations\Demo - NMM with XML\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\velisj\Google Drive\NMC\Courses\CIT218\CIT218 - Demonstrations\Demo - NMM with XML\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\velisj\Google Drive\NMC\Courses\CIT218\CIT218 - Demonstrations\Demo - NMM with XML\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\Newtonsoft.Json.dll
+C:\Users\velisj\Google Drive\NMC\Courses\CIT218\CIT218 - Demonstrations\Demo - NMM with XML\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\System.Web.Helpers.dll
+C:\Users\velisj\Google Drive\NMC\Courses\CIT218\CIT218 - Demonstrations\Demo - NMM with XML\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\System.Web.Mvc.dll
+C:\Users\velisj\Google Drive\NMC\Courses\CIT218\CIT218 - Demonstrations\Demo - NMM with XML\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\System.Web.Optimization.dll
+C:\Users\velisj\Google Drive\NMC\Courses\CIT218\CIT218 - Demonstrations\Demo - NMM with XML\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\System.Web.Razor.dll
+C:\Users\velisj\Google Drive\NMC\Courses\CIT218\CIT218 - Demonstrations\Demo - NMM with XML\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\System.Web.WebPages.Deployment.dll
+C:\Users\velisj\Google Drive\NMC\Courses\CIT218\CIT218 - Demonstrations\Demo - NMM with XML\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\System.Web.WebPages.dll
+C:\Users\velisj\Google Drive\NMC\Courses\CIT218\CIT218 - Demonstrations\Demo - NMM with XML\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\System.Web.WebPages.Razor.dll
+C:\Users\velisj\Google Drive\NMC\Courses\CIT218\CIT218 - Demonstrations\Demo - NMM with XML\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\WebGrease.dll
+C:\Users\velisj\Google Drive\NMC\Courses\CIT218\CIT218 - Demonstrations\Demo - NMM with XML\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\velisj\Google Drive\NMC\Courses\CIT218\CIT218 - Demonstrations\Demo - NMM with XML\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\System.Web.Helpers.xml
+C:\Users\velisj\Google Drive\NMC\Courses\CIT218\CIT218 - Demonstrations\Demo - NMM with XML\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\System.Web.Mvc.xml
+C:\Users\velisj\Google Drive\NMC\Courses\CIT218\CIT218 - Demonstrations\Demo - NMM with XML\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\System.Web.Optimization.xml
+C:\Users\velisj\Google Drive\NMC\Courses\CIT218\CIT218 - Demonstrations\Demo - NMM with XML\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\System.Web.Razor.xml
+C:\Users\velisj\Google Drive\NMC\Courses\CIT218\CIT218 - Demonstrations\Demo - NMM with XML\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\System.Web.WebPages.xml
+C:\Users\velisj\Google Drive\NMC\Courses\CIT218\CIT218 - Demonstrations\Demo - NMM with XML\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\System.Web.WebPages.Deployment.xml
+C:\Users\velisj\Google Drive\NMC\Courses\CIT218\CIT218 - Demonstrations\Demo - NMM with XML\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\System.Web.WebPages.Razor.xml
+C:\Users\velisj\Google Drive\NMC\Courses\CIT218\CIT218 - Demonstrations\Demo - NMM with XML\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\Antlr3.Runtime.pdb
+C:\Users\velisj\Google Drive\NMC\Courses\CIT218\CIT218 - Demonstrations\Demo - NMM with XML\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\Newtonsoft.Json.xml
+C:\Users\velisj\Google Drive\NMC\Courses\CIT218\CIT218 - Demonstrations\Demo - NMM with XML\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\obj\Debug\Demo_Nmm_Xml.Percistence.csprojResolveAssemblyReference.cache
+C:\Users\velisj\Google Drive\NMC\Courses\CIT218\CIT218 - Demonstrations\Demo - NMM with XML\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\obj\Debug\Demo_Nmm_Xml.Percistence.csproj.CoreCompileInputs.cache
+C:\Users\velisj\Google Drive\NMC\Courses\CIT218\CIT218 - Demonstrations\Demo - NMM with XML\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\obj\Debug\Demo_Nmm_Xml.dll
+C:\Users\velisj\Google Drive\NMC\Courses\CIT218\CIT218 - Demonstrations\Demo - NMM with XML\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\obj\Debug\Demo_Nmm_Xml.pdb
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\ApplicationInsights.config
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\roslyn\csc.exe
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\roslyn\desktop.ini
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\roslyn\vbc.exe
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\roslyn\VBCSCompiler.exe
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\Demo_Nmm_Xml.dll.config
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\Demo_Nmm_Xml.dll
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\Demo_Nmm_Xml.pdb
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\Antlr3.Runtime.dll
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\Newtonsoft.Json.dll
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\System.Web.Helpers.dll
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\System.Web.Mvc.dll
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\System.Web.Optimization.dll
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\System.Web.Razor.dll
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\System.Web.WebPages.Deployment.dll
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\System.Web.WebPages.dll
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\System.Web.WebPages.Razor.dll
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\WebGrease.dll
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\System.Web.Helpers.xml
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\System.Web.Mvc.xml
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\System.Web.Optimization.xml
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\System.Web.Razor.xml
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\System.Web.WebPages.xml
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\System.Web.WebPages.Deployment.xml
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\System.Web.WebPages.Razor.xml
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\Antlr3.Runtime.pdb
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\Newtonsoft.Json.xml
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\obj\Debug\Demo_Nmm_Xml.Percistence.csprojResolveAssemblyReference.cache
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\obj\Debug\Demo_Nmm_Xml.Percistence.csproj.CoreCompileInputs.cache
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\obj\Debug\Demo_Nmm_Xml.dll
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\obj\Debug\Demo_Nmm_Xml.pdb
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\roslyn\csc.exe
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\roslyn\desktop.ini
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\roslyn\vbc.exe
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\roslyn\VBCSCompiler.exe
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\Demo_Nmm_Xml.dll.config
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\Demo_Nmm_Xml.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\Demo_Nmm_Xml.pdb
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\Antlr3.Runtime.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\Newtonsoft.Json.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\System.Web.Helpers.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\System.Web.Mvc.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\System.Web.Optimization.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\System.Web.Razor.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\System.Web.WebPages.Deployment.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\System.Web.WebPages.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\System.Web.WebPages.Razor.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\WebGrease.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\System.Web.Helpers.xml
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\System.Web.Mvc.xml
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\System.Web.Optimization.xml
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\System.Web.Razor.xml
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\System.Web.WebPages.xml
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\System.Web.WebPages.Deployment.xml
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\System.Web.WebPages.Razor.xml
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\Antlr3.Runtime.pdb
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\Newtonsoft.Json.xml
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\obj\Debug\Demo_Nmm_Xml.Percistence.csproj.CoreCompileInputs.cache
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\obj\Debug\Demo_Nmm_Xml.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\obj\Debug\Demo_Nmm_Xml.pdb
+C:\Users\Caitlin\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\roslyn\csc.exe
+C:\Users\Caitlin\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\roslyn\desktop.ini
+C:\Users\Caitlin\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Caitlin\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Caitlin\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Caitlin\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Caitlin\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Caitlin\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Caitlin\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Caitlin\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Caitlin\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\roslyn\vbc.exe
+C:\Users\Caitlin\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\roslyn\VBCSCompiler.exe
+C:\Users\Caitlin\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Caitlin\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\Demo_Nmm_Xml.dll.config
+C:\Users\Caitlin\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\Demo_Nmm_Xml.dll
+C:\Users\Caitlin\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\Demo_Nmm_Xml.pdb
+C:\Users\Caitlin\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\Antlr3.Runtime.dll
+C:\Users\Caitlin\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Caitlin\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Caitlin\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\Newtonsoft.Json.dll
+C:\Users\Caitlin\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\PagedList.dll
+C:\Users\Caitlin\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\PagedList.Mvc.dll
+C:\Users\Caitlin\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\System.Web.Helpers.dll
+C:\Users\Caitlin\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\System.Web.Mvc.dll
+C:\Users\Caitlin\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\System.Web.Optimization.dll
+C:\Users\Caitlin\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\System.Web.Razor.dll
+C:\Users\Caitlin\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Caitlin\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\System.Web.WebPages.dll
+C:\Users\Caitlin\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\System.Web.WebPages.Razor.dll
+C:\Users\Caitlin\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\WebGrease.dll
+C:\Users\Caitlin\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Caitlin\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\PagedList.xml
+C:\Users\Caitlin\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\PagedList.Mvc.xml
+C:\Users\Caitlin\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\System.Web.Helpers.xml
+C:\Users\Caitlin\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\System.Web.Mvc.xml
+C:\Users\Caitlin\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\System.Web.Optimization.xml
+C:\Users\Caitlin\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\System.Web.Razor.xml
+C:\Users\Caitlin\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\System.Web.WebPages.xml
+C:\Users\Caitlin\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Caitlin\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\System.Web.WebPages.Razor.xml
+C:\Users\Caitlin\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\Antlr3.Runtime.pdb
+C:\Users\Caitlin\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\bin\Newtonsoft.Json.xml
+C:\Users\Caitlin\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\obj\Debug\Demo_Nmm_Xml.Percistence.csprojResolveAssemblyReference.cache
+C:\Users\Caitlin\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\obj\Debug\Demo_Nmm_Xml.Percistence.csproj.CoreCompileInputs.cache
+C:\Users\Caitlin\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\obj\Debug\Demo_Nmm_Xml.dll
+C:\Users\Caitlin\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml.Percistence\obj\Debug\Demo_Nmm_Xml.pdb
+C:\Users\conway40\Desktop\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml.Percistence\bin\roslyn\csc.exe
+C:\Users\conway40\Desktop\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml.Percistence\bin\roslyn\desktop.ini
+C:\Users\conway40\Desktop\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml.Percistence\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\conway40\Desktop\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml.Percistence\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\conway40\Desktop\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml.Percistence\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\conway40\Desktop\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml.Percistence\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\conway40\Desktop\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml.Percistence\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\conway40\Desktop\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml.Percistence\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\conway40\Desktop\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml.Percistence\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\conway40\Desktop\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml.Percistence\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\conway40\Desktop\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml.Percistence\bin\roslyn\vbc.exe
+C:\Users\conway40\Desktop\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml.Percistence\bin\roslyn\VBCSCompiler.exe
+C:\Users\conway40\Desktop\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml.Percistence\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\conway40\Desktop\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml.Percistence\bin\Demo_Nmm_Xml.dll.config
+C:\Users\conway40\Desktop\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml.Percistence\bin\Demo_Nmm_Xml.dll
+C:\Users\conway40\Desktop\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml.Percistence\bin\Demo_Nmm_Xml.pdb
+C:\Users\conway40\Desktop\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml.Percistence\bin\Antlr3.Runtime.dll
+C:\Users\conway40\Desktop\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml.Percistence\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\conway40\Desktop\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml.Percistence\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\conway40\Desktop\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml.Percistence\bin\Newtonsoft.Json.dll
+C:\Users\conway40\Desktop\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml.Percistence\bin\PagedList.dll
+C:\Users\conway40\Desktop\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml.Percistence\bin\PagedList.Mvc.dll
+C:\Users\conway40\Desktop\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml.Percistence\bin\System.Web.Helpers.dll
+C:\Users\conway40\Desktop\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml.Percistence\bin\System.Web.Mvc.dll
+C:\Users\conway40\Desktop\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml.Percistence\bin\System.Web.Optimization.dll
+C:\Users\conway40\Desktop\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml.Percistence\bin\System.Web.Razor.dll
+C:\Users\conway40\Desktop\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml.Percistence\bin\System.Web.WebPages.Deployment.dll
+C:\Users\conway40\Desktop\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml.Percistence\bin\System.Web.WebPages.dll
+C:\Users\conway40\Desktop\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml.Percistence\bin\System.Web.WebPages.Razor.dll
+C:\Users\conway40\Desktop\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml.Percistence\bin\WebGrease.dll
+C:\Users\conway40\Desktop\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml.Percistence\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\conway40\Desktop\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml.Percistence\bin\PagedList.xml
+C:\Users\conway40\Desktop\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml.Percistence\bin\PagedList.Mvc.xml
+C:\Users\conway40\Desktop\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml.Percistence\bin\System.Web.Helpers.xml
+C:\Users\conway40\Desktop\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml.Percistence\bin\System.Web.Mvc.xml
+C:\Users\conway40\Desktop\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml.Percistence\bin\System.Web.Optimization.xml
+C:\Users\conway40\Desktop\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml.Percistence\bin\System.Web.Razor.xml
+C:\Users\conway40\Desktop\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml.Percistence\bin\System.Web.WebPages.xml
+C:\Users\conway40\Desktop\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml.Percistence\bin\System.Web.WebPages.Deployment.xml
+C:\Users\conway40\Desktop\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml.Percistence\bin\System.Web.WebPages.Razor.xml
+C:\Users\conway40\Desktop\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml.Percistence\bin\Antlr3.Runtime.pdb
+C:\Users\conway40\Desktop\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml.Percistence\bin\Newtonsoft.Json.xml
+C:\Users\conway40\Desktop\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml.Percistence\obj\Debug\Demo_Nmm_Xml.Percistence.csprojResolveAssemblyReference.cache
+C:\Users\conway40\Desktop\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml.Percistence\obj\Debug\Demo_Nmm_Xml.Percistence.csproj.CoreCompileInputs.cache
+C:\Users\conway40\Desktop\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml.Percistence\obj\Debug\Demo_Nmm_Xml.dll
+C:\Users\conway40\Desktop\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml.Percistence\obj\Debug\Demo_Nmm_Xml.pdb
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml.Percistence\bin\roslyn\csc.exe
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml.Percistence\bin\roslyn\desktop.ini
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml.Percistence\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml.Percistence\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml.Percistence\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml.Percistence\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml.Percistence\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml.Percistence\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml.Percistence\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml.Percistence\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml.Percistence\bin\roslyn\vbc.exe
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml.Percistence\bin\roslyn\VBCSCompiler.exe
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml.Percistence\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml.Percistence\bin\Demo_Nmm_Xml.dll.config
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml.Percistence\bin\Demo_Nmm_Xml.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml.Percistence\bin\Demo_Nmm_Xml.pdb
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml.Percistence\bin\Antlr3.Runtime.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml.Percistence\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml.Percistence\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml.Percistence\bin\Newtonsoft.Json.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml.Percistence\bin\PagedList.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml.Percistence\bin\PagedList.Mvc.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml.Percistence\bin\System.Web.Helpers.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml.Percistence\bin\System.Web.Mvc.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml.Percistence\bin\System.Web.Optimization.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml.Percistence\bin\System.Web.Razor.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml.Percistence\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml.Percistence\bin\System.Web.WebPages.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml.Percistence\bin\System.Web.WebPages.Razor.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml.Percistence\bin\WebGrease.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml.Percistence\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml.Percistence\bin\PagedList.xml
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml.Percistence\bin\PagedList.Mvc.xml
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml.Percistence\bin\System.Web.Helpers.xml
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml.Percistence\bin\System.Web.Mvc.xml
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml.Percistence\bin\System.Web.Optimization.xml
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml.Percistence\bin\System.Web.Razor.xml
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml.Percistence\bin\System.Web.WebPages.xml
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml.Percistence\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml.Percistence\bin\System.Web.WebPages.Razor.xml
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml.Percistence\bin\Antlr3.Runtime.pdb
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml.Percistence\bin\Newtonsoft.Json.xml
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml.Percistence\obj\Debug\Demo_Nmm_Xml.Percistence.csprojResolveAssemblyReference.cache
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml.Percistence\obj\Debug\Demo_Nmm_Xml.Percistence.csproj.CoreCompileInputs.cache
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml.Percistence\obj\Debug\Demo_Nmm_Xml.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml.Percistence\obj\Debug\Demo_Nmm_Xml.pdb

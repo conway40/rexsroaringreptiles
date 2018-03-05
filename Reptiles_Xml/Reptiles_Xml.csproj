@@ -199,8 +199,13 @@
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Reptile\Index.cshtml" />
     <Content Include="Views\Reptile\Details.cshtml" />
+    <Content Include="Views\Reptile\Create.cshtml" />
+    <Content Include="Views\Reptile\Edit.cshtml" />
+    <Content Include="Views\Reptile\Delete.cshtml" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Folder Include="images\" />
+  </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
   </ItemGroup>

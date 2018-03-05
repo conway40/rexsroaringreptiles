@@ -1,0 +1,125 @@
+C:\Users\Caitlin\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Reptiles_Xml\bin\ApplicationInsights.config
+C:\Users\Caitlin\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Reptiles_Xml\bin\Reptiles_Xml.dll.config
+C:\Users\Caitlin\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Reptiles_Xml\bin\Reptiles_Xml.dll
+C:\Users\Caitlin\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Reptiles_Xml\bin\Reptiles_Xml.pdb
+C:\Users\Caitlin\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Reptiles_Xml\bin\Antlr3.Runtime.dll
+C:\Users\Caitlin\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Reptiles_Xml\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Caitlin\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Reptiles_Xml\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Caitlin\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Reptiles_Xml\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Caitlin\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Reptiles_Xml\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Caitlin\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Reptiles_Xml\bin\Microsoft.AI.Web.dll
+C:\Users\Caitlin\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Reptiles_Xml\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Caitlin\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Reptiles_Xml\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Caitlin\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Reptiles_Xml\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Caitlin\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Reptiles_Xml\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Caitlin\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Reptiles_Xml\bin\Newtonsoft.Json.dll
+C:\Users\Caitlin\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Reptiles_Xml\bin\System.Web.Helpers.dll
+C:\Users\Caitlin\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Reptiles_Xml\bin\System.Web.Mvc.dll
+C:\Users\Caitlin\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Reptiles_Xml\bin\System.Web.Optimization.dll
+C:\Users\Caitlin\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Reptiles_Xml\bin\System.Web.Razor.dll
+C:\Users\Caitlin\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Reptiles_Xml\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Caitlin\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Reptiles_Xml\bin\System.Web.WebPages.dll
+C:\Users\Caitlin\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Reptiles_Xml\bin\System.Web.WebPages.Razor.dll
+C:\Users\Caitlin\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Reptiles_Xml\bin\WebGrease.dll
+C:\Users\Caitlin\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Reptiles_Xml\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Caitlin\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Reptiles_Xml\bin\System.Web.Helpers.xml
+C:\Users\Caitlin\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Reptiles_Xml\bin\System.Web.Mvc.xml
+C:\Users\Caitlin\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Reptiles_Xml\bin\System.Web.Optimization.xml
+C:\Users\Caitlin\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Reptiles_Xml\bin\System.Web.Razor.xml
+C:\Users\Caitlin\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Reptiles_Xml\bin\System.Web.WebPages.xml
+C:\Users\Caitlin\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Reptiles_Xml\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Caitlin\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Reptiles_Xml\bin\System.Web.WebPages.Razor.xml
+C:\Users\Caitlin\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Reptiles_Xml\bin\Antlr3.Runtime.pdb
+C:\Users\Caitlin\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Reptiles_Xml\bin\Newtonsoft.Json.xml
+C:\Users\Caitlin\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Reptiles_Xml\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Caitlin\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Reptiles_Xml\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Caitlin\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Reptiles_Xml\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Caitlin\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Reptiles_Xml\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Caitlin\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Reptiles_Xml\bin\Microsoft.AI.Web.xml
+C:\Users\Caitlin\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Reptiles_Xml\obj\Debug\Reptiles_Xml.csprojResolveAssemblyReference.cache
+C:\Users\Caitlin\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Reptiles_Xml\obj\Debug\Reptiles_Xml.csproj.CoreCompileInputs.cache
+C:\Users\Caitlin\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Reptiles_Xml\obj\Debug\Reptiles_Xml.dll
+C:\Users\Caitlin\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Reptiles_Xml\obj\Debug\Reptiles_Xml.pdb
+C:\Users\conway40\Desktop\TopicalInformationApp\TopicalInformationApp\Reptiles_Xml\bin\ApplicationInsights.config
+C:\Users\conway40\Desktop\TopicalInformationApp\TopicalInformationApp\Reptiles_Xml\bin\Reptiles_Xml.dll.config
+C:\Users\conway40\Desktop\TopicalInformationApp\TopicalInformationApp\Reptiles_Xml\bin\Reptiles_Xml.dll
+C:\Users\conway40\Desktop\TopicalInformationApp\TopicalInformationApp\Reptiles_Xml\bin\Reptiles_Xml.pdb
+C:\Users\conway40\Desktop\TopicalInformationApp\TopicalInformationApp\Reptiles_Xml\bin\Antlr3.Runtime.dll
+C:\Users\conway40\Desktop\TopicalInformationApp\TopicalInformationApp\Reptiles_Xml\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\conway40\Desktop\TopicalInformationApp\TopicalInformationApp\Reptiles_Xml\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\conway40\Desktop\TopicalInformationApp\TopicalInformationApp\Reptiles_Xml\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\conway40\Desktop\TopicalInformationApp\TopicalInformationApp\Reptiles_Xml\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\conway40\Desktop\TopicalInformationApp\TopicalInformationApp\Reptiles_Xml\bin\Microsoft.AI.Web.dll
+C:\Users\conway40\Desktop\TopicalInformationApp\TopicalInformationApp\Reptiles_Xml\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\conway40\Desktop\TopicalInformationApp\TopicalInformationApp\Reptiles_Xml\bin\Microsoft.ApplicationInsights.dll
+C:\Users\conway40\Desktop\TopicalInformationApp\TopicalInformationApp\Reptiles_Xml\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\conway40\Desktop\TopicalInformationApp\TopicalInformationApp\Reptiles_Xml\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\conway40\Desktop\TopicalInformationApp\TopicalInformationApp\Reptiles_Xml\bin\Newtonsoft.Json.dll
+C:\Users\conway40\Desktop\TopicalInformationApp\TopicalInformationApp\Reptiles_Xml\bin\System.Web.Helpers.dll
+C:\Users\conway40\Desktop\TopicalInformationApp\TopicalInformationApp\Reptiles_Xml\bin\System.Web.Mvc.dll
+C:\Users\conway40\Desktop\TopicalInformationApp\TopicalInformationApp\Reptiles_Xml\bin\System.Web.Optimization.dll
+C:\Users\conway40\Desktop\TopicalInformationApp\TopicalInformationApp\Reptiles_Xml\bin\System.Web.Razor.dll
+C:\Users\conway40\Desktop\TopicalInformationApp\TopicalInformationApp\Reptiles_Xml\bin\System.Web.WebPages.Deployment.dll
+C:\Users\conway40\Desktop\TopicalInformationApp\TopicalInformationApp\Reptiles_Xml\bin\System.Web.WebPages.dll
+C:\Users\conway40\Desktop\TopicalInformationApp\TopicalInformationApp\Reptiles_Xml\bin\System.Web.WebPages.Razor.dll
+C:\Users\conway40\Desktop\TopicalInformationApp\TopicalInformationApp\Reptiles_Xml\bin\WebGrease.dll
+C:\Users\conway40\Desktop\TopicalInformationApp\TopicalInformationApp\Reptiles_Xml\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\conway40\Desktop\TopicalInformationApp\TopicalInformationApp\Reptiles_Xml\bin\System.Web.Helpers.xml
+C:\Users\conway40\Desktop\TopicalInformationApp\TopicalInformationApp\Reptiles_Xml\bin\System.Web.Mvc.xml
+C:\Users\conway40\Desktop\TopicalInformationApp\TopicalInformationApp\Reptiles_Xml\bin\System.Web.Optimization.xml
+C:\Users\conway40\Desktop\TopicalInformationApp\TopicalInformationApp\Reptiles_Xml\bin\System.Web.Razor.xml
+C:\Users\conway40\Desktop\TopicalInformationApp\TopicalInformationApp\Reptiles_Xml\bin\System.Web.WebPages.xml
+C:\Users\conway40\Desktop\TopicalInformationApp\TopicalInformationApp\Reptiles_Xml\bin\System.Web.WebPages.Deployment.xml
+C:\Users\conway40\Desktop\TopicalInformationApp\TopicalInformationApp\Reptiles_Xml\bin\System.Web.WebPages.Razor.xml
+C:\Users\conway40\Desktop\TopicalInformationApp\TopicalInformationApp\Reptiles_Xml\bin\Antlr3.Runtime.pdb
+C:\Users\conway40\Desktop\TopicalInformationApp\TopicalInformationApp\Reptiles_Xml\bin\Newtonsoft.Json.xml
+C:\Users\conway40\Desktop\TopicalInformationApp\TopicalInformationApp\Reptiles_Xml\bin\Microsoft.ApplicationInsights.xml
+C:\Users\conway40\Desktop\TopicalInformationApp\TopicalInformationApp\Reptiles_Xml\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\conway40\Desktop\TopicalInformationApp\TopicalInformationApp\Reptiles_Xml\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\conway40\Desktop\TopicalInformationApp\TopicalInformationApp\Reptiles_Xml\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\conway40\Desktop\TopicalInformationApp\TopicalInformationApp\Reptiles_Xml\bin\Microsoft.AI.Web.xml
+C:\Users\conway40\Desktop\TopicalInformationApp\TopicalInformationApp\Reptiles_Xml\obj\Debug\Reptiles_Xml.csprojResolveAssemblyReference.cache
+C:\Users\conway40\Desktop\TopicalInformationApp\TopicalInformationApp\Reptiles_Xml\obj\Debug\Reptiles_Xml.csproj.CoreCompileInputs.cache
+C:\Users\conway40\Desktop\TopicalInformationApp\TopicalInformationApp\Reptiles_Xml\obj\Debug\Reptiles_Xml.dll
+C:\Users\conway40\Desktop\TopicalInformationApp\TopicalInformationApp\Reptiles_Xml\obj\Debug\Reptiles_Xml.pdb
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Reptiles_Xml\bin\ApplicationInsights.config
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Reptiles_Xml\bin\Reptiles_Xml.dll.config
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Reptiles_Xml\bin\Reptiles_Xml.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Reptiles_Xml\bin\Reptiles_Xml.pdb
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Reptiles_Xml\bin\Antlr3.Runtime.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Reptiles_Xml\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Reptiles_Xml\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Reptiles_Xml\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Reptiles_Xml\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Reptiles_Xml\bin\Microsoft.AI.Web.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Reptiles_Xml\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Reptiles_Xml\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Reptiles_Xml\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Reptiles_Xml\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Reptiles_Xml\bin\Newtonsoft.Json.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Reptiles_Xml\bin\System.Web.Helpers.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Reptiles_Xml\bin\System.Web.Mvc.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Reptiles_Xml\bin\System.Web.Optimization.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Reptiles_Xml\bin\System.Web.Razor.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Reptiles_Xml\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Reptiles_Xml\bin\System.Web.WebPages.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Reptiles_Xml\bin\System.Web.WebPages.Razor.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Reptiles_Xml\bin\WebGrease.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Reptiles_Xml\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Reptiles_Xml\bin\System.Web.Helpers.xml
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Reptiles_Xml\bin\System.Web.Mvc.xml
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Reptiles_Xml\bin\System.Web.Optimization.xml
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Reptiles_Xml\bin\System.Web.Razor.xml
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Reptiles_Xml\bin\System.Web.WebPages.xml
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Reptiles_Xml\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Reptiles_Xml\bin\System.Web.WebPages.Razor.xml
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Reptiles_Xml\bin\Antlr3.Runtime.pdb
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Reptiles_Xml\bin\Newtonsoft.Json.xml
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Reptiles_Xml\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Reptiles_Xml\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Reptiles_Xml\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Reptiles_Xml\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Reptiles_Xml\bin\Microsoft.AI.Web.xml
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Reptiles_Xml\obj\Debug\Reptiles_Xml.csproj.CoreCompileInputs.cache
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Reptiles_Xml\obj\Debug\Reptiles_Xml.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Reptiles_Xml\obj\Debug\Reptiles_Xml.pdb

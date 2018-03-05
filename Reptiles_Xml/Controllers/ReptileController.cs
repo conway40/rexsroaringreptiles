@@ -112,6 +112,7 @@ namespace Reptiles_Xml.Controllers
         }
 
         // GET: Reptile/Create
+        [HttpGet]
         public ActionResult Create()
         {
             return View();
@@ -119,60 +120,96 @@ namespace Reptiles_Xml.Controllers
 
         // POST: Reptile/Create
         [HttpPost]
-        public ActionResult Create(FormCollection collection)
+        public ActionResult Create(Reptile reptile)
         {
             try
             {
-                // TODO: Add insert logic here
+                ReptileRepository reptileRepository = new ReptileRepository();
+
+                using (reptileRepository)
+                {
+                    reptileRepository.Insert(reptile);
+                }
 
                 return RedirectToAction("Index");
             }
             catch
             {
+                // TODO: Add view for error message
                 return View();
             }
         }
 
         // GET: Reptile/Edit/5
+        [HttpGet]
         public ActionResult Edit(int id)
         {
-            return View();
+            ReptileRepository reptileRepository = new ReptileRepository();
+            Reptile reptile = new Reptile();
+
+            using (reptileRepository)
+            {
+                reptile = reptileRepository.SelectOne(id);
+            }
+
+            return View(reptile);
         }
 
         // POST: Reptile/Edit/5
         [HttpPost]
-        public ActionResult Edit(int id, FormCollection collection)
+        public ActionResult Edit(Reptile reptile)
         {
             try
             {
-                // TODO: Add update logic here
+                ReptileRepository reptileRepository = new ReptileRepository();
+
+                using (reptileRepository)
+                {
+                   reptileRepository.Update(reptile);
+                }
 
                 return RedirectToAction("Index");
             }
             catch
             {
+                // TODO: Add view for error message
                 return View();
             }
         }
 
         // GET: Reptile/Delete/5
+        [HttpGet]
         public ActionResult Delete(int id)
         {
-            return View();
+            ReptileRepository reptileRepository = new ReptileRepository();
+            Reptile reptile = new Reptile();
+
+            using (reptileRepository)
+            {
+                reptile = reptileRepository.SelectOne(id);
+            }
+
+            return View(reptile);
         }
 
         // POST: Reptile/Delete/5
         [HttpPost]
-        public ActionResult Delete(int id, FormCollection collection)
+        public ActionResult Delete(int id, Reptile reptile)
         {
             try
             {
-                // TODO: Add delete logic here
+                ReptileRepository reptileRepository = new ReptileRepository();
+
+                using (reptileRepository)
+                {
+                    reptileRepository.Delete(id);
+                }
 
                 return RedirectToAction("Index");
             }
             catch
             {
+                // TODO: Add view for error message
                 return View();
             }
         }

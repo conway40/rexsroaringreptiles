@@ -1,0 +1,372 @@
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\ApplicationInsights.config
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\csc.exe
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\csc.exe.config
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\csc.rsp
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\csi.exe
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\csi.exe.config
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\csi.rsp
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\System.AppContext.dll
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\System.Console.dll
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\System.IO.Compression.dll
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\System.IO.Pipes.dll
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\System.Security.Claims.dll
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\System.Threading.Thread.dll
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\System.ValueTuple.dll
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\System.Xml.XPath.dll
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\vbc.exe
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\vbc.exe.config
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\vbc.rsp
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\VBCSCompiler.exe
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\Demo_Nmm_Xml.dll.config
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\Demo_Nmm_Xml.dll
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\Demo_Nmm_Xml.pdb
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\Antlr3.Runtime.dll
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\Microsoft.AI.Web.dll
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\Microsoft.ApplicationInsights.dll
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\Newtonsoft.Json.dll
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\System.Web.Helpers.dll
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\System.Web.Mvc.dll
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\System.Web.Optimization.dll
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\System.Web.Razor.dll
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\System.Web.WebPages.Deployment.dll
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\System.Web.WebPages.dll
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\System.Web.WebPages.Razor.dll
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\WebGrease.dll
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\System.Web.Helpers.xml
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\System.Web.Mvc.xml
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\System.Web.Optimization.xml
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\System.Web.Razor.xml
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\System.Web.WebPages.xml
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\System.Web.WebPages.Deployment.xml
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\System.Web.WebPages.Razor.xml
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\Antlr3.Runtime.pdb
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\Newtonsoft.Json.xml
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\Microsoft.ApplicationInsights.xml
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\Microsoft.AI.Web.xml
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml\obj\Debug\Demo_Nmm_Xml.csprojResolveAssemblyReference.cache
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml\obj\Debug\Demo_Nmm_Xml.csproj.CoreCompileInputs.cache
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml\obj\Debug\Demo_Nmm_Xml.dll
+C:\Users\conway40\Desktop\Demo_Nmm_Xml\Demo_Nmm_Xml\obj\Debug\Demo_Nmm_Xml.pdb
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\ApplicationInsights.config
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\csc.exe
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\csc.exe.config
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\csc.rsp
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\csi.exe
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\csi.exe.config
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\csi.rsp
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\System.AppContext.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\System.Console.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\System.IO.Compression.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\System.IO.Pipes.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\System.Security.Claims.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\System.Threading.Thread.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\System.ValueTuple.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\System.Xml.XPath.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\vbc.exe
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\vbc.exe.config
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\vbc.rsp
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\VBCSCompiler.exe
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\Demo_Nmm_Xml.dll.config
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\Demo_Nmm_Xml.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\Demo_Nmm_Xml.pdb
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\Antlr3.Runtime.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\Microsoft.AI.Web.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\Microsoft.ApplicationInsights.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\Newtonsoft.Json.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\System.Web.Helpers.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\System.Web.Mvc.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\System.Web.Optimization.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\System.Web.Razor.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\System.Web.WebPages.Deployment.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\System.Web.WebPages.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\System.Web.WebPages.Razor.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\WebGrease.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\System.Web.Helpers.xml
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\System.Web.Mvc.xml
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\System.Web.Optimization.xml
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\System.Web.Razor.xml
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\System.Web.WebPages.xml
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\System.Web.WebPages.Deployment.xml
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\System.Web.WebPages.Razor.xml
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\Antlr3.Runtime.pdb
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\Newtonsoft.Json.xml
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\Microsoft.ApplicationInsights.xml
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\Microsoft.AI.Web.xml
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\obj\Debug\Demo_Nmm_Xml.csprojResolveAssemblyReference.cache
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\obj\Debug\Demo_Nmm_Xml.csproj.CoreCompileInputs.cache
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\obj\Debug\Demo_Nmm_Xml.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\obj\Debug\Demo_Nmm_Xml.pdb
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\PagedList.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\PagedList.Mvc.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\PagedList.xml
+C:\Users\conway40\Desktop\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\PagedList.Mvc.xml
+C:\Users\conway40\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\ApplicationInsights.config
+C:\Users\conway40\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\csc.exe
+C:\Users\conway40\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\csc.exe.config
+C:\Users\conway40\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\csc.rsp
+C:\Users\conway40\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\csi.exe
+C:\Users\conway40\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\csi.exe.config
+C:\Users\conway40\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\csi.rsp
+C:\Users\conway40\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\conway40\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\conway40\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\System.AppContext.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\System.Console.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\System.IO.Compression.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\System.IO.Pipes.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\System.Security.Claims.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\System.Threading.Thread.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\System.ValueTuple.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\System.Xml.XPath.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\vbc.exe
+C:\Users\conway40\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\vbc.exe.config
+C:\Users\conway40\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\vbc.rsp
+C:\Users\conway40\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\VBCSCompiler.exe
+C:\Users\conway40\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\conway40\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\Demo_Nmm_Xml.dll.config
+C:\Users\conway40\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\Demo_Nmm_Xml.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\Demo_Nmm_Xml.pdb
+C:\Users\conway40\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\Antlr3.Runtime.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\Microsoft.AI.Web.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\Microsoft.ApplicationInsights.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\Newtonsoft.Json.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\PagedList.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\PagedList.Mvc.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\System.Web.Helpers.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\System.Web.Mvc.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\System.Web.Optimization.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\System.Web.Razor.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\System.Web.WebPages.Deployment.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\System.Web.WebPages.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\System.Web.WebPages.Razor.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\WebGrease.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\conway40\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\PagedList.xml
+C:\Users\conway40\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\PagedList.Mvc.xml
+C:\Users\conway40\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\System.Web.Helpers.xml
+C:\Users\conway40\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\System.Web.Mvc.xml
+C:\Users\conway40\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\System.Web.Optimization.xml
+C:\Users\conway40\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\System.Web.Razor.xml
+C:\Users\conway40\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\System.Web.WebPages.xml
+C:\Users\conway40\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\System.Web.WebPages.Deployment.xml
+C:\Users\conway40\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\System.Web.WebPages.Razor.xml
+C:\Users\conway40\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\Antlr3.Runtime.pdb
+C:\Users\conway40\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\Newtonsoft.Json.xml
+C:\Users\conway40\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\Microsoft.ApplicationInsights.xml
+C:\Users\conway40\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\conway40\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\conway40\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\conway40\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\bin\Microsoft.AI.Web.xml
+C:\Users\conway40\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\obj\Debug\Demo_Nmm_Xml.csprojResolveAssemblyReference.cache
+C:\Users\conway40\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\obj\Debug\Demo_Nmm_Xml.csproj.CoreCompileInputs.cache
+C:\Users\conway40\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\obj\Debug\Demo_Nmm_Xml.dll
+C:\Users\conway40\Desktop\Demo_Xml 2-22-18\Demo_Xml 2-20-18\Demo_Nmm_Xml\Demo_Nmm_Xml\obj\Debug\Demo_Nmm_Xml.pdb
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml\bin\ApplicationInsights.config
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml\bin\roslyn\csc.exe
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml\bin\roslyn\csc.exe.config
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml\bin\roslyn\csc.rsp
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml\bin\roslyn\csi.exe
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml\bin\roslyn\csi.exe.config
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml\bin\roslyn\csi.rsp
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml\bin\roslyn\System.AppContext.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml\bin\roslyn\System.Console.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml\bin\roslyn\System.IO.Compression.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml\bin\roslyn\System.Security.Claims.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml\bin\roslyn\System.ValueTuple.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml\bin\roslyn\vbc.exe
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml\bin\roslyn\vbc.exe.config
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml\bin\roslyn\vbc.rsp
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml\bin\roslyn\VBCSCompiler.exe
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml\bin\Demo_Nmm_Xml.dll.config
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml\bin\Demo_Nmm_Xml.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml\bin\Demo_Nmm_Xml.pdb
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml\bin\Antlr3.Runtime.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml\bin\Microsoft.AI.Web.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml\bin\Newtonsoft.Json.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml\bin\PagedList.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml\bin\PagedList.Mvc.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml\bin\System.Web.Helpers.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml\bin\System.Web.Mvc.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml\bin\System.Web.Optimization.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml\bin\System.Web.Razor.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml\bin\System.Web.WebPages.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml\bin\System.Web.WebPages.Razor.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml\bin\WebGrease.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml\bin\PagedList.xml
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml\bin\PagedList.Mvc.xml
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml\bin\System.Web.Helpers.xml
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml\bin\System.Web.Mvc.xml
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml\bin\System.Web.Optimization.xml
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml\bin\System.Web.Razor.xml
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml\bin\System.Web.WebPages.xml
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml\bin\System.Web.WebPages.Razor.xml
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml\bin\Antlr3.Runtime.pdb
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml\bin\Newtonsoft.Json.xml
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml\bin\Microsoft.AI.Web.xml
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml\obj\Debug\Demo_Nmm_Xml.csprojResolveAssemblyReference.cache
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml\obj\Debug\Demo_Nmm_Xml.csproj.CoreCompileInputs.cache
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml\obj\Debug\Demo_Nmm_Xml.dll
+C:\Users\Caitlin\Desktop\TopicalInformationApp\TopicalInformationApp\TopicalInformationApp\Demo_Nmm_Xml\obj\Debug\Demo_Nmm_Xml.pdb
